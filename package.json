@@ -1,0 +1,19 @@
+{
+  "name": "h2001",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000h\u0000i\u0000e\u0000u\u00002\u00000\u00000\u00001\u0000\r\u0000 \u0000#\u0000 \u0000H\u0000i\u0000e\u0000u\u00001\u00004\u00000\u00006\u00002\u00000\u00000\u00001\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieutvgcs/hieu2001.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hieutvgcs/hieu2001/issues"
+  },
+  "homepage": "https://github.com/hieutvgcs/hieu2001#readme"
+}
